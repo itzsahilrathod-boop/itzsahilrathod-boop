@@ -9,7 +9,10 @@ Aspiring Data Scientist • Python • Data Analysis • Machine Learning • AI
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Python+%7C+NumPy+%7C+Pandas+%7C+EDA;Learning+by+Building+Projects;Machine+Learning+%7C+AI+%7C+Data+Science" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Python+%7C+NumPy+%7C+Pandas+%7C+EDA;Learning+by+Building+Projects;Machine+Learning+%7C+AI+%7C+Data+Science"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -32,7 +35,10 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,git,github,vscode,pycharm" alt="Tech Stack"/>
+  <img
+    src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,git,github,vscode,pycharm"
+    alt="Tech Stack"
+  />
 </p>
 
 <p align="center">
@@ -47,18 +53,21 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 
 <p align="center">
 
-<img src="https://img.shields.io/github/repos/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repositories"/>
+<img
+  src="https://img.shields.io/github/repos/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Public%20Repos"
+  alt="Public Repositories"
+/>
 
-<img src="https://img.shields.io/github/stars/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+<img
+  src="https://img.shields.io/github/stars/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Stars"
+  alt="Stars"
+/>
 
-<img src="https://img.shields.io/github/followers/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+<img
+  src="https://img.shields.io/github/followers/itzsahilrathod-boop?style=for-the-badge&logo=github&label=Followers"
+  alt="Followers"
+/>
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/itzsahilrathod-boop?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
 </p>
 
 ---
@@ -74,23 +83,25 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 
 ---
 
-# 📅 Contribution Calendar
+# 📅 Contribution Activity
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/0e75b6/itzsahilrathod-boop"
-    alt="GitHub Contribution Calendar"
+    src="./assets/github-activity.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
   />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Commit Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itzsahilrathod-boop&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    src="./assets/commit-graph.svg"
+    alt="GitHub Commit Graph"
+    width="100%"
   />
 </p>
 
@@ -101,7 +112,7 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 <p align="center">
   <a href="https://github.com/itzsahilrathod-boop">
     <img
-      src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Achievements"
     />
   </a>
@@ -109,7 +120,7 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 
 <p align="center">
   <sub>
-    My GitHub achievements are available directly on my GitHub profile.
+    View my official GitHub achievements directly on my profile.
   </sub>
 </p>
 
@@ -203,19 +214,31 @@ A collection of Python projects created while improving programming, problem-sol
 <p align="center">
 
 <a href="https://linkedin.com/in/sahil-thakur-b5a460248">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://www.hackerrank.com/itzsahilrathod">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  <img
+    src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"
+    alt="HackerRank"
+  />
 </a>
 
 <a href="mailto:itzsahilrathod@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/itzsahilrathod-boop">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -225,9 +248,7 @@ A collection of Python projects created while improving programming, problem-sol
 # ⚡ My Philosophy
 
 <p align="center">
-
-<b>Learn → Practice → Build → Break → Debug → Improve → Repeat</b>
-
+  <b>Learn → Practice → Build → Break → Debug → Improve → Repeat</b>
 </p>
 
 <p align="center">
