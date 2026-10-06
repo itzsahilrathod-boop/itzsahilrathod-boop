@@ -98,19 +98,7 @@ AI / Intelligent Systems
 
 ---
 
-# 🏆 GitHub Achievements
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/itzsahilrathod-boop">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=itzsahilrathod-boop&theme=github-compact&hide_border=true&area=true&v=2"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
 ---
 
 # 🚀 Featured Projects
