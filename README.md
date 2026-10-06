@@ -100,10 +100,17 @@ AI / Intelligent Systems
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzsahilrathod-boop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
+# 📈 Contribution Activity
 
+<p align="center">
+  <a href="https://github.com/itzsahilrathod-boop">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=itzsahilrathod-boop&theme=github-compact&hide_border=true&area=true&v=2"
+      alt="GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
 ---
 
 # 🚀 Featured Projects
