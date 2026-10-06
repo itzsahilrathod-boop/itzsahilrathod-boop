@@ -83,25 +83,24 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 
 ---
 
-# 📅 Contribution Activity
+# 📈 Contribution Activity & Commit History
 
 <p align="center">
   <img
-    src="./assets/github-activity.svg"
-    alt="GitHub Contribution Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsahilrathod-boop&theme=github_dark"
+    alt="GitHub Contribution Activity and Commit History"
     width="100%"
   />
 </p>
 
 ---
 
-# 📈 Commit Graph
+# 💻 Most Used Languages
 
 <p align="center">
   <img
-    src="./assets/commit-graph.svg"
-    alt="GitHub Commit Graph"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzsahilrathod-boop&theme=github_dark"
+    alt="Most Used Languages"
   />
 </p>
 
@@ -119,20 +118,7 @@ I learn by building projects, solving problems, debugging mistakes, and improvin
 </p>
 
 <p align="center">
-  <sub>
-    View my official GitHub achievements directly on my profile.
-  </sub>
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzsahilrathod-boop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
+  Official GitHub achievements are available directly on my GitHub profile.
 </p>
 
 ---
@@ -165,7 +151,7 @@ A collection of Python projects created while improving programming, problem-sol
   <a href="https://github.com/itzsahilrathod-boop?tab=repositories">
     <img
       src="https://img.shields.io/badge/Explore%20All%20Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore Projects"
+      alt="Explore All Projects"
     />
   </a>
 </p>
